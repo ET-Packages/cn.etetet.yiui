@@ -15,5 +15,9 @@
   "relatedPackages": {},
   "gitDependencies": {
     "cn.etetet.yiuiframework": "https://github.com/ET-Packages/cn.etetet.yiuiframework.git#0.0.1"
-  }
+  },
+  "publishConfig": 
+  { 
+     "registry": "https://npm.pkg.github.com/@ET-Packages" 
+  }  
 }
